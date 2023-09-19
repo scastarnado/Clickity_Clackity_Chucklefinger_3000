@@ -1,6 +1,6 @@
 # Clickity-Clackity Chucklefinger 3000
 
-![Absurd Autoclicker]
+[Absurd Autoclicker]
 
 Welcome to the Clickity-Clackity Chucklefinger 3000 repository! 🤪
 
@@ -18,7 +18,7 @@ The Clickity-Clackity Chucklefinger 3000 is an autoclicker like no other (joking
 
 1. Clone this repository.
 2. Activate your inner clown.
-3. Run the `Clickity_Clackity_Chucklefinger_3000.exe` script.
+3. Run the `Clickity_Clackity_Chucklefinger_3000.exe` file.
 4. Watch the magic unfold!
 
 ## Contributions
