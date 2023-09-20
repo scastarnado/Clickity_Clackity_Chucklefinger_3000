@@ -7,6 +7,11 @@ Welcome to the Clickity-Clackity Chucklefinger 3000 repository! 🤪
 ## Overview
 
 The Clickity-Clackity Chucklefinger 3000 is an autoclicker like no other (joking). It's designed for those who want to inject some absurdity into their mundane tasks (it's just an autoclicker, do not expect a nasa rocket here).
+Preview:
+![image](https://github.com/kastas29/Clickity_Clackity_Chucklefinger_3000/assets/61283232/f4848125-6eaf-4331-9a41-a8ad6115cf69)
+
+Little alert: You may see a popup saying that this is a sus software. This is because i do not know how to fix it and the program is not from an official publusher or something like this. Do not worry at all my fellas. Just open it. I do not even have any servers to send data, and I do not know how to do that lmao!!
+
 
 ## Features
 
