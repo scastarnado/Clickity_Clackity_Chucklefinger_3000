@@ -1,5 +1,7 @@
 # Clickity-Clackity Chucklefinger 3000
 
+Currently working on a remake of this with a little better UI
+
 [Absurd Autoclicker]
 
 Welcome to the Clickity-Clackity Chucklefinger 3000 repository! 🤪
